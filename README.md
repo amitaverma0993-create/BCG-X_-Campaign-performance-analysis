@@ -3,7 +3,7 @@
 ## Project Summary
 
 This project was completed as part of the **Introduction to Data for Decision Makers Job Simulation** with **BCG X**.
-BCG X combines consulting and advanced technology capabilities to help organizations accelerate digital transformation and growth.
+BCG X combines consulting and advanced technology capabilities to help organizations accelerate digital transformation and growth. <br>
 In this simulation, I worked as part of a cross-functional team analyzing a **multi-channel marketing campaign** for **NewCo** clint, a national retail brand focused on acquiring new customers.
 
 ## Business Objective
@@ -12,7 +12,7 @@ NewCo completed a one-week digital campaign testing:
 
 1.	Two message styles
 
-      **Campaign A**: Informal, conversational tone <br>
+**Campaign A**: Informal, conversational tone <br>
 **Campaign B**: Sales-focused, promotional tone
 
 3.	Three marketing channels
@@ -23,37 +23,29 @@ NewCo completed a one-week digital campaign testing:
 
 **The client wanted to know:**
 
-1.	Which campaign + channel combination delivered the most value?  
-2.	What drove engagement from new customers?  
-
-3.	Where should marketing investment be focused next quarter?
+1.	Which campaign + channel combination delivered the most value? <br>  
+2.	What drove engagement from new customers? <br> 
+3.	Where should marketing investment be focused next quarter? <br>
 
 ## Dataset & Tools Used
 
-1.	Excel Campaign Performance Data
+### Excel Campaign Performance Data 
 
-2.	Pre-built Pivot Tables:
+**Pre-built Pivot Tables:** <br>
+       Total Sales by Channel <br>
+       Total Sales by Campaign <br>
 
-o	Total Sales by Channel
+**Custom Pivot Tables created for:** <br>
+       Channel + Campaign breakdown <br>
+       New Customer segmentation <br>
 
-o	Total Sales by Campaign
-
-3.	Custom Pivot Tables created for:
-
-o	Channel + Campaign breakdown
-
-o	New Customer segmentation
-
-4.	Slicers to isolate new customer data
+**Slicers to isolate new customer data**
 
 **Tools:**
 
-1.	Microsoft Excel
-
-2.	Pivot Tables
-
-3.	Data Segmentation
-
+1.	Microsoft Excel <br>
+2.	Pivot Tables  
+3.	Data Segmentation  
 4.	Business Interpretation Framework
 
 ## Methodology
