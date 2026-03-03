@@ -17,9 +17,9 @@ NewCo completed a one-week digital campaign testing:
 
 2. Three marketing channels
 
-  **Email**    
-  **Instagram**    
-  **Website Banner**  
+     **Email**    
+     **Instagram**    
+     **Website Banner**  
 
 **The client wanted to know:**
 
@@ -102,14 +102,10 @@ A high-revenue campaign may not be the best at expanding customer base.
 5. Strategic Thinking  
 6. Business Communication  
 7. Insight Translation for Stakeholders  
+8. Connect data insights to business strategy  
+9. Evaluate marketing ROI
+10. Segment customer performance  
+11. Communicate executive-ready recommendations
 
-8.	Connect data insights to business strategy
-
-9.	Evaluate marketing ROI
-
-10.	Segment customer performance
-
-11.	Communicate executive-ready recommendations
-
-👩‍💻 Author
-Amita Verma
+###Author
+**Amita Verma**
