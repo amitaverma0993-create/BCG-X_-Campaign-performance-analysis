@@ -19,9 +19,7 @@ NewCo completed a one-week digital campaign testing:
 3.	Three marketing channels
 
 **Email**
-
 **Instagram**
-
 **Website Banner**
 
 **The client wanted to know:**
