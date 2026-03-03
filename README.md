@@ -17,15 +17,14 @@ NewCo completed a one-week digital campaign testing:
 
 3.	Three marketing channels
 
-**Email**
-**Instagram**
+**Email**  
+**Instagram**  
 **Website Banner**
 
 **The client wanted to know:**
 
-1.	Which campaign + channel combination delivered the most value?
-
-2.	What drove engagement from new customers?
+1.	Which campaign + channel combination delivered the most value?  
+2.	What drove engagement from new customers?  
 
 3.	Where should marketing investment be focused next quarter?
 
