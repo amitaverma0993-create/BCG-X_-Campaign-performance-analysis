@@ -38,7 +38,7 @@ NewCo completed a one-week digital campaign testing:
 
 **Custom Pivot Tables created for:**  
        Channel + Campaign breakdown  <a href= "https://github.com/amitaverma0993-create/BCG-X_-Campaign-performance-analysis/blob/main/Campaign_Data_Campaign%2BChannel.xlsx"> Link</a>
-       New Customer segmentation   <a href= "https://github.com/amitaverma0993-create/BCG-X_-Campaign-performance-analysis/blob/main/Pivot_Campaign_Data_New%20Customer.xlsx"> Link</a>
+       New Customer segmentation     <a href= "https://github.com/amitaverma0993-create/BCG-X_-Campaign-performance-analysis/blob/main/Pivot_Campaign_Data_New%20Customer.xlsx"> Link</a>
 
 **Slicers to isolate new customer data**
 
