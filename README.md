@@ -12,7 +12,7 @@ NewCo completed a one-week digital campaign testing:
 
 1.	Two message styles
 
-      **Campaign A**: Informal, conversational tone
+      **Campaign A**: Informal, conversational tone <br>
 
   	**Campaign B**: Sales-focused, promotional tone
 
