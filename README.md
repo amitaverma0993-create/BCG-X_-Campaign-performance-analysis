@@ -107,5 +107,3 @@ A high-revenue campaign may not be the best at expanding customer base.
 10. Segment customer performance  
 11. Communicate executive-ready recommendations
 
-###Author
-**Amita Verma**
