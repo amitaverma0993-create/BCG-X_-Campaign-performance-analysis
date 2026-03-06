@@ -53,10 +53,11 @@ The slide summarizes the key insights and provides a strategic marketing recomme
 
 **Tools:**
 
-1.	Microsoft Excel <br>
+1.	Microsoft Excel  
 2.	Pivot Tables    
-3.	Data Segmentation    
-4.	Business Interpretation Framework  
+3.	Data Segmentation  
+4.	Power Point Presentation     
+5.	Business Interpretation Framework    
 
 ## Analytical Approach
 
